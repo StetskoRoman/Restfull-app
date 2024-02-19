@@ -16,7 +16,6 @@ import java.util.List;
 @RequiredArgsConstructor
 public class MessageController {
 
-
     private final MessageRepo messageRepo;
 
     @GetMapping
